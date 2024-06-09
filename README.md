@@ -1,5 +1,5 @@
 - 👋 Hi, I’m tamy
-- 👀 I’m a student
+- 👀 I’m a student.
 
 
 <!---
